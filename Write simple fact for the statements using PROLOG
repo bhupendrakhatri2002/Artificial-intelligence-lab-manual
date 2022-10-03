@@ -1,0 +1,7 @@
+ (6 sloc)  93 Bytes
+Clauses
+likes(ram ,mango). 
+girl(seema). 
+red(rose). 
+likes(bill ,cindy). 
+owns(john ,gold).
